@@ -9,3 +9,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# A task list 
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [x] My addition to the list
