@@ -5,4 +5,4 @@
 
 
 # Hulacat
-![Image of Yaktocat](https://octodex.github.com/hulatocat/)
+![Image of Yaktocat](https://octodex.github.com/hulatocat.png)
