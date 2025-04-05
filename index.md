@@ -1,4 +1,4 @@
 # Markdown 
 
-###### Image of a Yaktocat
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+###### Image of a Hulatocat
+[![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)](https://octodex.github.com/hulatocat/)
